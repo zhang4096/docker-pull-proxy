@@ -1,10 +1,10 @@
+redis:6-alpine crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/redis:6-alpine
+
 langgenius/dify-api:0.15.3 crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/dify-api:0.15.3
 
 postgres:15-alpine crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/postgres:15-alpine
 
 nginx:latest crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/nginx:latest
-
-redis:6-alpine crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/redis:6-alpine
 
 langgenius/dify-sandbox:0.2.10 crpi-k1zajpoae2ov9s9n.cn-shanghai.personal.cr.aliyuncs.com/zhang4096/dify-sandbox:0.2.10
 
